@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ritesh</h1>
 <h3 align="left">A Software Developer and Big Data Enthusiast from India</h3>
+
 🌱 I’m currently learning **Big Data | Generative AI | Machine Learning**
 
 <h3 align="left">Languages and Tools:</h3>
