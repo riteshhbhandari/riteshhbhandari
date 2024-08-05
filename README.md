@@ -1,11 +1,11 @@
 # 🙋‍♂️ Hii
-I'm Ritesh Bhandari, a Computer Engineering student at, graduating in 2025.<br>
+I'm Ritesh Bhandari, a Computer Engineering student, graduating in 2025.<br>
 - 🌄 Hailing from the Dehradun.<br>
-- 🔭 Currently diving into the world of Data Analytics and Generative AI - it's a wild ride!
+- 🔭 Currently diving into the world of Big Data, Data Analytics and Generative AI - it's a wild wild ride!
 - 🌱 On a mission to learn how to build and launch scalable products without losing my sanity.
 - 💬 Super interested in AI tech, Personal Finance, or modern tech solutions – basically, all the cool stuff.<br>
 - 📫 How to reach me **riteshbhandari924@gmail.com**
-- ⚡ Fun fact When I'm not immersed in this technical stufff, you can find me dreaming of an "undo" button for real life😭.
+- ⚡ Fun fact When I'm not immersed in this technical stufff, you can find me dreaming of Architecture and Design😭.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
