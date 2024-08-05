@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hii
 I'm Ritesh Bhandari, a Computer Engineering student, graduating in 2025.<br>
-- 🌄 Hailing from the Dehradun.<br>
+- 🌄 Hailing from the valley of Dehradun.<br>
 - 🔭 Currently diving into the world of Big Data, Data Analytics and Generative AI - it's a wild wild ride!
 - 🌱 On a mission to learn how to build and launch scalable products without losing my sanity.
 - 💬 Super interested in AI tech, Personal Finance, or modern tech solutions – basically, all the cool stuff.<br>
